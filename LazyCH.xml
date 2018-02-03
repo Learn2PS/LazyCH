@@ -1,0 +1,13 @@
+<Ui>
+<Script file="LazyCH.lua"/>
+<Frame name="LazyCH">
+	<Scripts>
+		<OnLoad>
+			LazyCH_OnLoad();
+		</OnLoad>	
+		<OnEvent>
+			LazyCH_OnEvent(event);
+		</OnEvent>
+	</Scripts>
+</Frame>	
+</Ui>

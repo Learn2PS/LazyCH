@@ -1,0 +1,10 @@
+## Interface: 11200
+## Name: LazyCH
+## Title: LazyCH |cFFFF0000 -By Moas!-|r
+## Notes: Automatically completes the quest for Core Hounds and Accepts a new one.
+## Version: 1.0
+## Author: MJ
+## DefaultState: enabled
+
+LazyCH.lua
+LazyCH.xml
